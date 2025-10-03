@@ -1,7 +1,5 @@
 ﻿#include <iostream>
-#include <exception>
 #include <locale>
-#include <codecvt>
 
 #include "Parser.h"
 
